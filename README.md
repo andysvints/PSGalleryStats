@@ -5,6 +5,7 @@ Get Powershell Gallery Statistics for the specified Date.
 Copy and Paste the following command to install this package using PowerShellGet
 ```powershell
 Install-Module -Name PSGalleryStats
+```
 
 ## Cmdlets
 ```powershell
